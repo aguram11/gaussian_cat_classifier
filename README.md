@@ -4,7 +4,7 @@ Image classification is an important problem in computer vision and (probably) t
 bed problem in artificial intelligence. I am using a Gaussian classifier for image classification by classifying foreground and background regions in the image.
  
 
-The image consists of a cat and some grass. The size of this image is 500 ×375 pixels. The left hand side of Figure 1 shows the image, and the right hand side of Figure 1 shows a manually labeled “ground truth”. The aim is to extract the cat from the grass, and compare with the ” ground truth”. However, before proceeding on to tackling the task, let us establish
+The image consists of a cat and some grass. The size of this image is 500 ×375 pixels. The left hand side of Figure 1 shows the image, and the right hand side of Figure 1 shows a manually labeled “ground truth”. The aim is to extract the cat from the grass, and compare with the ” ground truth”. 
 
 ![alt text](https://github.com/aguram11/gaussian_cat_classifier/blob/master/readme_images/1.png)
 
