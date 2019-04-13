@@ -14,7 +14,7 @@ The classifier is based on the Maximum A Posteriori(MAP) method assuming it to b
 
 For purposes of testing, the image will be extracted in 8 × 8 patches at pixel (i, j) and value of 1 is given to the patch x if it is classified as ”cat”, and 0 otherwise (this is the convention the ”ground truth” image is constructed on). Furthermore, training data files train_cat.txt and train_grass.txt are available. The sizes of the arrays in these files are 64 × N, where N corresponds to the number of training samples and 64 corresponds to the size of the block 8×8. The data is used to compute the necessary parameters for your Gaussian classifier.
 
-References
+## References
 
 1. Duda, Hart and Stork’s Pattern Classification, Chapter 3.3, 3.4
 2. [Stanford CS 229 Generative Algorithms](http://cs229.stanford.edu/notes/cs229-notes2.pdf)
