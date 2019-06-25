@@ -1,4 +1,4 @@
-# gaussian_cat_classifier
+# Image Classification by building Machine Learning gaussian cat classifier
 Image classification problem by classifying foreground and background regions in an image, using a Gaussian classifier **coded from scratch**
 Image classification is an important problem in computer vision and (probably) the most widely used test
 bed problem in artificial intelligence. I am using a Gaussian classifier for image classification by classifying foreground and background regions in the image.
